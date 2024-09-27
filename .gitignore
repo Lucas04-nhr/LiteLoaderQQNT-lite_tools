@@ -6,3 +6,4 @@ pnpm-lock.yaml
 changeLog.md
 css
 dist
+.DS_Store
